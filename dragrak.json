@@ -1,0 +1,17 @@
+{
+  "name": "Dragark",
+  "symbol": "DARK",
+  "description": "Dragark Genesis is an exclusive NFT collection featuring unique dragarks. Players can take their NFT Dragarks on a journey to explore, conquer, exploit, expand their sky territories, and craft & trade the in-game assets within a dynamic economy.",
+  "attributes": [],
+  "external_url": "https://x.com/playdragark",
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://arweave.net/QedXC-W7YovJtFjgiFcjhum4b0e3YW2s8DoZLUTRnbM?ext=gif",
+        "type": "image/png"
+      }
+    ]
+  },
+  "image": "https://arweave.net/QedXC-W7YovJtFjgiFcjhum4b0e3YW2s8DoZLUTRnbM?ext=gif"
+}
