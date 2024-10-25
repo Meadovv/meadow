@@ -8,10 +8,10 @@
     "category": "image",
     "files": [
       {
-        "uri": "https://arweave.net/QedXC-W7YovJtFjgiFcjhum4b0e3YW2s8DoZLUTRnbM?ext=gif",
-        "type": "image/png"
+        "uri": "https://raw.githubusercontent.com/Meadovv/meadow/refs/heads/main/dragark.jpg",
+        "type": "image/jpg"
       }
     ]
   },
-  "image": "https://arweave.net/QedXC-W7YovJtFjgiFcjhum4b0e3YW2s8DoZLUTRnbM?ext=gif"
+  "image": "https://raw.githubusercontent.com/Meadovv/meadow/refs/heads/main/dragark.jpg"
 }
