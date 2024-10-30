@@ -1,0 +1,17 @@
+{
+    "name": "Ventorians NFT",
+    "symbol": "VEN",
+    "description": "Ventorians is a unique NFT collection that features stunning artworks of 3333 warriors who are slated to fight for the Starknet ecosystem. Each Ventorian is a powerful and fearless fighter who possesses a rare skill or ability that makes her stand out from the rest.",
+    "attributes": [],
+    "external_url": "https://x.com/playdragark",
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "https://ipfs.ventory.gg/ventory/ino/starknet/ventorians/assets/911.png",
+          "type": "image/png"
+        }
+      ]
+    },
+    "image": "https://ipfs.ventory.gg/ventory/ino/starknet/ventorians/assets/911.png"
+  }
